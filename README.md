@@ -1,8 +1,8 @@
-# 🌿 Herbaveda — Skincare E-commerce Platform
+# 🌿 Herbaveda — D2C Skincare E-commerce Platform
 
-A modern **D2C skincare e-commerce platform** built for **Herbaveda**, designed to provide customers with a smooth and professional online shopping experience for skincare and beauty products.
+A modern and responsive **D2C skincare e-commerce platform** developed as part of professional web development work at **Codeware IT**.
 
-The platform combines product discovery, shopping cart functionality, secure online payments, Pan-India shipping, customer reviews, product showcases, and a responsive user experience into a complete digital commerce platform.
+The platform provides customers with a complete online shopping experience, including product discovery, product details, shopping cart, checkout, secure online payments, Pan-India shipping, customer reviews, and responsive browsing across devices.
 
 ---
 
@@ -14,137 +14,140 @@ The platform combines product discovery, shopping cart functionality, secure onl
 
 ## ✨ Key Features
 
-* 🌿 Modern skincare & beauty product storefront
+* 🌿 Modern skincare and beauty product storefront
 * 🛍️ Product discovery and browsing
 * 🔎 Product-focused shopping experience
 * 🛒 Add to Cart functionality
-* 💳 Secure online payment integration
-* 💰 Multiple digital payment options
+* 📦 Complete e-commerce order flow
+* 💳 Online payment gateway integration
+* 📱 Digital payment support
 * 🚚 Pan-India shipping
-* 📦 E-commerce order flow
+* 💰 Secure checkout experience
 * ⭐ Customer reviews and ratings
-* 🖼️ Before / After transformation gallery
-* 📸 Instagram / social media showcase
-* 🏆 Product and brand certification showcase
+* 🖼️ Before & After product-result showcase
+* 📸 Social media / Instagram integration
+* 🏆 Brand and certification showcase
+* ❓ FAQ section
+* 📄 Shipping, Refund, Return, Exchange & Cancellation policies
+* 🔐 Privacy Policy and Terms & Conditions
+* 📞 Customer support and contact sections
 * 📱 Fully responsive design
 * 💻 Desktop, tablet and mobile optimization
-* ❓ Customer FAQ / information sections
-* 📄 Shipping, Refund, Exchange, Cancellation and Return policies
-* 🔐 Privacy Policy and Terms & Conditions
-* 📞 Customer contact and support information
-* 🎨 Modern, brand-focused UI/UX
+* 🎨 Modern and brand-focused UI/UX
 
 ---
 
-## 🛍️ E-commerce Experience
+## 🛍️ E-commerce Workflow
 
-The platform provides customers with a complete online shopping journey:
+The platform provides a complete customer shopping journey:
 
-**Discover → Explore → Add to Cart → Checkout → Payment → Delivery**
+**Discover → Explore → Add to Cart → Checkout → Payment → Shipping → Delivery**
 
-Customers can browse skincare products, view product information, add products to their cart, proceed through checkout, make online payments, and receive their orders through the shipping system.
+Customers can browse products, view product information, add products to their cart, proceed to checkout, complete online payment, and receive their orders through the shipping process.
 
 ---
 
-## 💳 Payment Integration
+## 💳 Payment Gateway
 
-The platform supports secure online payment functionality for customers.
+The platform includes an integrated online payment system to provide customers with a convenient and secure checkout experience.
 
-### Supported Payment Options
+### Payment Support
 
 * 💳 Credit / Debit Cards
 * 📱 UPI
 * 💰 Digital Payment Methods
-* 🟢 Razorpay Payment Gateway
+* 🟢 Razorpay
 * 📲 PhonePe
 * 🟦 Google Pay
 
-The website provides a secure checkout experience designed to make online transactions simple and convenient.
+The payment integration helps streamline the checkout process and provides customers with multiple payment options.
 
 ---
 
 ## 🚚 Shipping & Delivery
 
-The platform supports **Pan-India shipping**, allowing customers across India to place orders and receive products at their preferred delivery address.
+The platform supports **Pan-India shipping**, allowing customers from different locations across India to place orders and receive products at their preferred delivery address.
 
 ### Shipping Features
 
 * 🇮🇳 Pan-India delivery
 * 📦 Order shipping workflow
 * 🚚 Delivery support
-* 📍 Customer address-based delivery
+* 📍 Customer address management
 * 📄 Dedicated shipping policy
 
 ---
 
-## 🧴 Product Categories
+## 🧴 Product Experience
 
-The platform showcases a wide range of skincare and beauty products, including:
+The website provides customers with a dedicated product browsing experience for skincare and beauty products.
 
-* ✨ Skin Brightening Creams
-* 🌿 Natural / Herbal Skincare Products
-* 🧴 Face Creams
-* 🧼 Skincare Soaps
-* 💧 Serums
-* ☀️ Sunscreens
-* 🧖 Face Masks
-* 💄 Specialized Skincare Products
-* 🎁 Skincare Combos & Kits
+The product experience focuses on:
+
+* Product discovery
+* Product information
+* Product presentation
+* Pricing and offers
+* Add-to-cart functionality
+* Checkout accessibility
+* Customer reviews
 
 ---
 
 ## ⭐ Customer Reviews
 
-The platform includes a dedicated customer review section to build trust and provide social proof.
+A dedicated customer review section is included to provide social proof and help customers make informed purchasing decisions.
 
-Customers can explore:
+The platform showcases:
 
-* ⭐ Product ratings
-* 💬 Customer experiences
-* 👥 Verified customer feedback
-* 📊 Overall brand rating
-
-The website currently showcases a **4.7/5 customer rating** along with verified review information.
+* ⭐ Customer ratings
+* 💬 Customer feedback
+* 👥 Customer experiences
+* 📊 Overall product/brand feedback
 
 ---
 
-## 🖼️ Before / After Gallery
+## 🖼️ Before & After Showcase
 
-A dedicated **Before / After** section allows customers to explore visual product results and transformations.
+The platform includes a **Before & After** section to visually present product results and customer transformations.
 
-The interactive gallery is designed to improve product presentation and provide a more engaging customer experience.
+This provides customers with an engaging way to explore product outcomes and understand the brand's skincare experience.
 
 ---
 
 ## 📸 Social Media Integration
 
-The website includes a dedicated Instagram showcase to connect the e-commerce experience with Herbaveda's social media presence.
+The platform connects the e-commerce experience with the brand's social media presence.
 
-This helps customers discover:
+The social media section helps showcase:
 
 * 📸 Product content
-* 🌿 Skincare tips
-* ✨ Beauty inspiration
-* 💡 Brand content
-* 📱 Social updates
+* 🌿 Skincare content
+* ✨ Brand updates
+* 💡 Beauty and skincare information
+* 📱 Social media activity
 
 ---
 
 ## 🏆 Brand & Certification Showcase
 
-The platform includes a dedicated certification section to present the brand's certificates and supporting documentation, helping create a more trustworthy shopping experience.
+The platform includes dedicated sections for presenting brand information and certifications.
+
+This helps communicate product authenticity, brand credibility, and important supporting information to customers.
 
 ---
 
 ## 📱 Responsive Design
 
-The platform is designed to work across multiple devices:
+The platform is designed to provide a consistent experience across different screen sizes.
+
+### Supported Devices
 
 * 💻 Desktop
 * 📱 Mobile
 * 📲 Tablet
 
-The responsive interface ensures that customers can browse products, manage their cart, and access checkout functionality comfortably from different screen sizes.
+The responsive interface allows customers to browse products, manage their cart, access checkout, and explore website content comfortably from different devices.
 
 ---
 
@@ -152,41 +155,41 @@ The responsive interface ensures that customers can browse products, manage thei
 
 ### 🏠 Home
 
-A visually engaging homepage introducing the Herbaveda brand, products, offers, customer experiences, and key benefits.
+A visually engaging homepage presenting the Herbaveda brand, products, offers, customer experiences, and key information.
 
 ### 🛍️ Products
 
-A dedicated product showcase where customers can explore skincare products and add them to their shopping cart.
+A product-focused shopping section where customers can explore skincare products and add them to their cart.
 
-### ⭐ Customer Reviews
+### ⭐ Reviews
 
-A social-proof section displaying customer experiences and ratings.
+A customer feedback section designed to build trust and provide social proof.
 
-### 🖼️ Before / After
+### 🖼️ Before & After
 
-An interactive transformation gallery showcasing customer results.
+A visual showcase highlighting customer transformations and product results.
 
-### 🌿 Brand Story
+### 🌿 About / Brand Story
 
-Information about Herbaveda's approach to natural ingredients and skincare.
+Information about the Herbaveda brand, its products, and its approach to skincare.
 
 ### 🏆 Certifications
 
-A dedicated area for showcasing brand and product certificates.
+A dedicated area for presenting relevant brand and product certifications.
 
-### 📸 Instagram
+### 📸 Social Media
 
-Social media content integrated into the website to connect customers with the Herbaveda brand.
+A social media showcase connecting the website with the brand's online presence.
 
 ### 📄 Policies
 
-Dedicated pages for:
+Dedicated information pages covering:
 
 * Shipping Policy
 * Refund Policy
+* Return Policy
 * Exchange Policy
 * Cancellation Policy
-* Return Policy
 * Privacy Policy
 * Terms & Conditions
 
@@ -194,88 +197,90 @@ Dedicated pages for:
 
 ## 🛠️ Platform Capabilities
 
-The project focuses on modern e-commerce functionality including:
+The project includes multiple real-world e-commerce capabilities:
 
-* 🛒 Shopping Cart
-* 💳 Payment Gateway Integration
-* 📦 Order Processing
-* 🚚 Shipping Workflow
-* 🧴 Product Management
-* ⭐ Review & Rating System
-* 📱 Responsive UI
-* 🔐 Secure Checkout
-* 📄 Policy Management
-* 📸 Social Media Integration
-* 🏆 Brand & Certificate Showcase
-
-The live website confirms Pan-India shipping, secure checkout and payment options including Razorpay, Visa, Mastercard, PhonePe, Google Pay and UPI.
-
----
-
-## 🔐 Source Code
-
-This repository is created as a **project showcase and documentation repository**.
-
-The production source code and internal implementation are maintained privately and are **not included in this public repository**.
-
-This allows the project to be presented publicly while keeping the proprietary production code private.
-
----
-
-## 🎯 Project Use Cases
-
-The platform is suitable for:
-
-* 🌿 Skincare brands
-* 💄 Beauty product businesses
-* 🧴 Personal care brands
-* 🛍️ D2C businesses
-* 📦 Online product stores
-* 🌱 Natural & herbal product brands
-* 🚀 Growing e-commerce businesses
-
----
-
-## 📊 Project Highlights
-
-| Feature                  | Status     |
+| Capability               | Status     |
 | ------------------------ | ---------- |
-| Responsive Design        | ✅          |
 | Product Catalogue        | ✅          |
 | Product Details          | ✅          |
 | Shopping Cart            | ✅          |
 | Checkout                 | ✅          |
 | Payment Gateway          | ✅          |
-| Razorpay Integration     | ✅          |
 | UPI Payments             | ✅          |
 | Card Payments            | ✅          |
 | Pan-India Shipping       | ✅          |
 | Customer Reviews         | ✅          |
-| Before / After Gallery   | ✅          |
-| Instagram Integration    | ✅          |
+| Before / After Showcase  | ✅          |
+| Social Media Integration | ✅          |
 | Certification Showcase   | ✅          |
-| Return / Refund Policies | ✅          |
+| Responsive Design        | ✅          |
 | Mobile Optimization      | ✅          |
+| Policy Pages             | ✅          |
 | Production Website       | ✅          |
 | Public Source Code       | 🔒 Private |
 
 ---
 
-## 🚀 Project Status
+## 👨‍💻 My Role
 
-**🟢 Production / Live Project**
+**Developer — Codeware IT**
 
-The platform is currently live and provides a complete digital shopping experience for Herbaveda customers.
+This project was developed as part of my professional work at **Codeware IT**, where I contributed as a Developer to the implementation and development of the platform.
+
+### My Contribution
+
+* 💻 Developed and implemented website features
+* 🎨 Worked on responsive UI implementation
+* 🛍️ Implemented e-commerce functionality
+* 🛒 Worked on shopping cart and checkout flow
+* 💳 Worked with payment gateway integration
+* 🚚 Implemented/handled shipping-related functionality
+* 📱 Optimized the website for different screen sizes
+* 🧩 Worked on website sections and customer-facing features
+* 🔧 Fixed UI, responsiveness and functional issues
+* 🚀 Contributed to the production-ready website experience
 
 ---
 
-## 👨‍💻 Developer
+## 🏢 Professional Project
 
-**Ranjeet Kumar**
+**Company:** Codeware IT
+**Role:** Developer
+**Project:** Herbaveda D2C Skincare E-commerce Platform
+**Status:** 🟢 Live / Production
 
-MERN Stack Developer | MCA Student
+This project represents professional development work completed during my role at **Codeware IT**.
 
-🔗 **GitHub:** https://github.com/rjk-info
+---
+
+## 🔐 Source Code
+
+The production source code is **private** and is not included in this public repository.
+
+The repository is maintained as a **project showcase and documentation repository**. The source code remains private due to company/client confidentiality and production project restrictions.
+
+---
+
+## 🎯 Project Objective
+
+The primary objective of the platform is to provide Herbaveda with a modern digital commerce presence where customers can:
+
+* 🌿 Discover skincare products
+* 🛍️ Explore product information
+* 🛒 Add products to their cart
+* 💳 Complete secure online payments
+* 🚚 Receive products through Pan-India shipping
+* ⭐ Explore customer reviews
+* 📸 Connect with the brand's social presence
+* 📱 Shop conveniently across devices
+
+---
+
+## 🚀 Project Status
+
+**🟢 Live Production Project**
+
+The platform is currently live and provides a complete digital shopping experience for Herbaveda customers.
 
 ---
 
@@ -283,16 +288,16 @@ MERN Stack Developer | MCA Student
 
 🌐 **Live Website:** https://theherbaveda.com/
 
-💻 **GitHub:** https://github.com/rjk-info
+🏢 **Company:** Codeware IT
 
 ---
 
-## ⭐ Project Note
+## ⭐ Project Highlights
 
-This project demonstrates the development of a **production-ready D2C e-commerce platform** for a skincare and beauty brand.
+This project demonstrates practical experience in developing a **production e-commerce platform** for a D2C skincare brand.
 
-The project focuses on:
+The overall customer journey combines:
 
-**Modern UI/UX → Product Discovery → Cart → Checkout → Online Payment → Shipping → Customer Experience**
+**Modern UI/UX → Product Discovery → Product Details → Cart → Checkout → Online Payment → Shipping → Customer Experience**
 
-It showcases the complete digital commerce journey while maintaining a responsive, professional, and brand-focused user experience.
+The project showcases my professional experience working on real-world web development requirements as a **Developer at Codeware IT**.
